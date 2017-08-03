@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "intent": "GetNumUsers"
+    },
+	{
+		"intent": "GetHealthStatus"
+	},
+	{
+		"intent": "AddNewUser",
+		"slots": [
+			{
+				"name": "Name",
+				"type": "AMAZON.Person"
+			}
+		]
+	},
+	{
+		"intent": "AddNewLayout",
+		"slots": [
+			{
+				"name": "Layout",
+				"type": "AMAZON.LITERAL"
+			}
+		]
+	},
+	{
+		"intent": "DefineKewl"
+	},
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

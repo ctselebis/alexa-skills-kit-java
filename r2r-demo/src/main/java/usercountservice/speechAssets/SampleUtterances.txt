@@ -1,0 +1,10 @@
+GetNumUsers number of users
+GetNumUsers how many users
+GetHealthStatus health status
+GetHealthStatus health check
+AddNewUser add new user {Name}
+AddNewUser add user {Name}
+AddNewLayout add page {page|Layout}
+AddNewLayout add a page called {page|Layout}
+DefineKewl define cool
+DefineKewl what is cool
