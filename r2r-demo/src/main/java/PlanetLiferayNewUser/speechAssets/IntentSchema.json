@@ -1,0 +1,16 @@
+{
+  "intents": [
+	{
+		"intent": "PlanetLiferayNewUser",
+		"slots": [
+			{
+				"name": "Name",
+				"type": "AMAZON.Person"
+			}
+		]
+	},
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

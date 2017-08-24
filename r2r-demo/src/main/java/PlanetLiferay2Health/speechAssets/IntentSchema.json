@@ -1,0 +1,10 @@
+{
+  "intents": [
+    {
+      "intent": "LiferayHealth"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

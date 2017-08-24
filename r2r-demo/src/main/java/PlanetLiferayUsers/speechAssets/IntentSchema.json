@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "PlanetLiferayUsers"
+    },
+    {
+      "intent": "HelloWorldIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}

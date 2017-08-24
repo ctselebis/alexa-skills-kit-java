@@ -1,0 +1,2 @@
+PlanetLiferayNewUser new user {Name}
+PlanetLiferayNewUser add user {Name}

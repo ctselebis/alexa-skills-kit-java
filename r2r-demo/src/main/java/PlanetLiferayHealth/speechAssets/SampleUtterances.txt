@@ -1,0 +1,2 @@
+PlanetLiferayHealth health status
+PlanetLiferayHealth health check

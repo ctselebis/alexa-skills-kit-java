@@ -1,0 +1,2 @@
+LiferayHealth health status
+LiferayHealth health check
